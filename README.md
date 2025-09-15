@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey there, I'm Mohamd Kadan
 
-<!--
-**mhmd223/mhmd223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🌱 Currently learning: Software Engineering 
+- 🔭 Working on: A Unity engine game called The Lost City  
+- 🎯 Interests: **| Game Development | FullStack |**  
+- 🌍 Spoken Languages: **English, Arabic, Hebrew**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd223&layout=compact&theme=radical)
+
+---
+
+## ⚡ Tech & Tools I Use
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![ReactJS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=react&logoColor=000) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)  
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=fff)  
+
+---
+
+## 🎮 Interests
+- 🎨 Game Development  
+- 🌐 Web BackEnd and FrontEnd Development  
+---
+
+---
+✨ _Thanks for stopping by my profile!_  
