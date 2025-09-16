@@ -7,12 +7,6 @@
 - 🌍 Spoken Languages: **English, Arabic, Hebrew**  
 
 ---
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmd223&layout=compact&theme=radical)
-
----
-
 ## ⚡ Tech & Tools I Use
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
